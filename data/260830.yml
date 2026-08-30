@@ -1,0 +1,61 @@
+about:
+  description: </> htmx - high power tools for HTML
+  license: NOASSERTION
+  homepage: https://htmx.org
+  head: ea59409
+  archived: false
+  latestVersion: v4.0.0
+  collectedAt: 2026-08-30T05:17:54Z
+timeline:
+  created: 2020-04-13
+  lastCommit: 2026-08-24
+  lastRelease: 2026-08-28
+popularity:
+  star: 49159
+  watcher: 218
+  fork: 1641
+  release: 33
+  contributor: 455
+  pullRequest: 568
+  issue: 1743
+language:
+  JavaScript: 1984287
+  HTML: 152462
+  CSS: 8768
+  TypeScript: 5290
+  Ruby: 2660
+  Shell: 1723
+totalLine: 2155190
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 1
+    mergedPR: 23
+    openPR: 12
+    closedIssue: 0
+    openIssue: 9
+    commit: 2
+  last90d:
+    since: 2026-06-01
+    release: 3
+    mergedPR: 83
+    openPR: 16
+    closedIssue: 20
+    openIssue: 19
+    commit: 14
+  last180d:
+    since: 2026-03-03
+    release: 6
+    mergedPR: 147
+    openPR: 22
+    closedIssue: 49
+    openIssue: 28
+    commit: 44
+  last360d:
+    since: 2025-09-04
+    release: 7
+    mergedPR: 236
+    openPR: 42
+    closedIssue: 106
+    openIssue: 61
+    commit: 101
