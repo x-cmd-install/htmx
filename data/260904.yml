@@ -7,7 +7,7 @@ about:
   head: ea59409
   archived: false
   latestVersion: v4.0.0
-  collectedAt: 2026-09-04T19:28:15Z
+  collectedAt: 2026-09-04T21:05:07Z
 timeline:
   created: 2020-04-13
   lastCommit: 2026-08-24
@@ -19,7 +19,7 @@ popularity:
   release: 33
   contributor: 455
   pullRequest: 1781
-  issue: 1757
+  issue: 1758
 language:
   JavaScript: 1984287
   HTML: 152462
@@ -35,7 +35,7 @@ recent:
     mergedPR: 16
     openPR: 21
     closedIssue: 1
-    openIssue: 20
+    openIssue: 21
     commit: 1
   last60d:
     since: 2026-07-06
@@ -43,7 +43,7 @@ recent:
     mergedPR: 55
     openPR: 23
     closedIssue: 7
-    openIssue: 27
+    openIssue: 28
     commit: 2
   last90d:
     since: 2026-06-06
@@ -51,7 +51,7 @@ recent:
     mergedPR: 81
     openPR: 25
     closedIssue: 19
-    openIssue: 31
+    openIssue: 32
     commit: 12
   last180d:
     since: 2026-03-08
@@ -59,7 +59,7 @@ recent:
     mergedPR: 146
     openPR: 31
     closedIssue: 46
-    openIssue: 41
+    openIssue: 42
     commit: 43
   last360d:
     since: 2025-09-09
@@ -67,7 +67,7 @@ recent:
     mergedPR: 238
     openPR: 51
     closedIssue: 106
-    openIssue: 73
+    openIssue: 74
     commit: 96
   last720d:
     since: 2024-09-14
@@ -75,16 +75,79 @@ recent:
     mergedPR: 417
     openPR: 59
     closedIssue: 229
-    openIssue: 159
+    openIssue: 160
     commit: 481
 total:
   release: 33
   mergedPR: 1202
   openPR: 71
   closedIssue: 1125
-  openIssue: 632
+  openIssue: 633
   commit: 3551
 ---
+path: /home/runner/.x-repo/github.com/bigskysoftware/htmx
+collectedAt: 2026-09-04T21:05:11Z
+loc:
+  JavaScript:
+    code: 92464
+    comments: 28010
+    blanks: 13119
+    files: 145
+  Json:
+    code: 9016
+    comments: 0
+    blanks: 0
+    files: 3
+  Html:
+    code: 3322
+    comments: 11
+    blanks: 215
+    files: 155
+  Svg:
+    code: 1012
+    comments: 4
+    blanks: 23
+    files: 43
+  Css:
+    code: 873
+    comments: 19
+    blanks: 152
+    files: 2
+  TypeScript:
+    code: 514
+    comments: 60
+    blanks: 56
+    files: 4
+  Ruby:
+    code: 90
+    comments: 0
+    blanks: 6
+    files: 2
+  Toml:
+    code: 41
+    comments: 20
+    blanks: 14
+    files: 4
+  Sh:
+    code: 39
+    comments: 11
+    blanks: 14
+    files: 3
+  Markdown:
+    code: 0
+    comments: 15787
+    blanks: 5692
+    files: 196
+  Text:
+    code: 0
+    comments: 4
+    blanks: 1
+    files: 1
+total:
+  code: 110381
+  comments: 44066
+  blanks: 19449
+  files: 558
 ---
 date: "2026-08-24"
 repo:
