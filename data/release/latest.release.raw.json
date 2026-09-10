@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 611364,
       "digest": "sha256:858d5fb806ed3003704bc9c9a7fc7aad15213dcfc78c5b78b005fff4211ce57c",
-      "download_count": 272,
+      "download_count": 278,
       "created_at": "2026-08-28T13:00:36Z",
       "updated_at": "2026-08-28T13:00:37Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.0/htmx-4.0.0-dist.zip"
