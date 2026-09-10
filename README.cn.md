@@ -4,42 +4,13 @@
 
 </> htmx - high power tools for HTML
 
-![htmx](https://repo.x-cmd.io/htmx.svg)
+![htmx](https://repo.x-cmd.io/htmx.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install htmx
 ```
-
-## 源代码
-
-- **上游仓库**: <https://github.com/bigskysoftware/htmx>
-- **官网**: <https://htmx.org>
-- **许可证**: NOASSERTION
-
-## 发布
-
-- **最新版本**: `v4.0.0` (2026-08-28)
-- **最近提交**: 2026-09-07
-- **Release 含资产**: 1 个
-- **发布时间**: 2026-08-28T13:00:38Z
-
-## 流行度
-
-- **Star**: 49,404 · **Fork**: 1,656 · **开放 issue**: 1,777 · **贡献者**: 465
-
-## 累计统计
-
-- **发布数**: 35 · **已合并 PR**: 1233 · **开放 PR**: 27 · **已关闭 issue**: 1518 · **开放 issue**: 259 · **提交数**: 3580
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 28 | 16 | 11 | 30 | 30 |
-| 90d | 2026-06-12 | 5 | 91 | 17 | 27 | 40 | 37 |
-| 360d | 2025-09-15 | 8 | 264 | 21 | 128 | 69 | 125 |
 
 ## 代码规模
 
@@ -63,6 +34,43 @@ x install htmx
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## 源代码
+
+- **上游仓库**: <https://github.com/bigskysoftware/htmx>
+- **官网**: <https://htmx.org>
+- **许可证**: NOASSERTION
+
+## 发布
+
+- **最新版本**: `v4.0.0` (2026-08-28)
+- **最近提交**: 2026-09-07
+- **Release 含资产**: 1 个
+
+## 流行度
+
+- **Star**: 49,412 · **Fork**: 1,658 · **开放 issue**: 1,778 · **贡献者**: 465
+
+## 累计统计
+
+- **发布数**: 35 · **已合并 PR**: 1233 · **开放 PR**: 30 · **已关闭 issue**: 1518 · **开放 issue**: 260 · **提交数**: 3580
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 3 | 28 | 19 | 11 | 31 | 30 |
+| last60d | 2026-07-12 | 4 | 65 | 20 | 17 | 37 | 31 |
+| 90d | 2026-06-12 | 5 | 91 | 20 | 27 | 41 | 37 |
+| last180d | 2026-03-14 | 8 | 152 | 20 | 59 | 48 | 71 |
+| 360d | 2025-09-15 | 8 | 264 | 24 | 128 | 70 | 125 |
+| last720d | 2024-09-20 | 13 | 445 | 24 | 271 | 128 | 506 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [htmx-4.0.0-dist.zip](https://github.com/bigskysoftware/htmx/releases/download/v4.0.0/htmx-4.0.0-dist.zip) | 597.0 KiB | `other` |
+
 ## 改进这些数据
 
 htmx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `htmx` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -72,4 +80,4 @@ htmx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:18:57Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:44:52Z._
