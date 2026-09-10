@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.0.0"
   latestRelease: "v4.0.0"
   latestPrerelease: "v4.0.0-beta6"
-  collectedAt: 2026-09-10T20:44:35Z
+  collectedAt: 2026-09-10T23:05:00Z
 timeline:
   created: 2020-04-13
   lastCommit: 2026-09-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-28
   lastPrerelease: 2026-07-23
 popularity:
-  star: 49412
+  star: 49413
   watcher: 221
   fork: 1658
   release: 35
@@ -88,7 +88,7 @@ total:
   commit: 3580
 ---
 path: /home/runner/.x-repo/github.com/bigskysoftware/htmx
-collectedAt: 2026-09-10T20:44:44Z
+collectedAt: 2026-09-10T23:05:10Z
 loc:
   JavaScript:
     code: 92464
