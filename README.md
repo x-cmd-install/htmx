@@ -14,14 +14,14 @@ x install htmx
 
 ## Code insight
 
-Total: **107,371** lines of code across **348** files in the top 5 languages.
+Total: **107,372** lines of code across **349** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | JavaScript | 92,464 | 28,010 | 13,119 | 145 |
 | Json | 9,016 | 0 | 0 | 3 |
 | Html | 3,322 | 11 | 215 | 155 |
-| Svg | 1,012 | 4 | 23 | 43 |
+| Svg | 1,013 | 4 | 23 | 44 |
 | Css | 873 | 19 | 152 | 2 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.0.0` (2026-08-28)
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-09-12
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 49,422 · **Forks**: 1,659 · **Open issues**: 1,779 · **Contributors**: 465
+- **Stars**: 49,426 · **Forks**: 1,660 · **Open issues**: 1,782 · **Contributors**: 465
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 1239 · **Open PRs**: 25 · **Closed issues**: 1522 · **Open issues**: 257 · **Commits**: 3580
+- **Releases**: 35 · **Merged PRs**: 1239 · **Open PRs**: 26 · **Closed issues**: 1522 · **Open issues**: 260 · **Commits**: 3581
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 3 | 33 | 14 | 15 | 27 | 30 |
-| last60d | 2026-07-14 | 4 | 69 | 15 | 20 | 32 | 31 |
-| 90d | 2026-06-14 | 5 | 97 | 15 | 29 | 38 | 37 |
-| last180d | 2026-03-16 | 8 | 157 | 15 | 63 | 45 | 71 |
-| 360d | 2025-09-17 | 8 | 270 | 19 | 131 | 67 | 125 |
-| last720d | 2024-09-22 | 13 | 450 | 19 | 274 | 125 | 503 |
+| 30d | 2026-08-14 | 3 | 31 | 15 | 15 | 30 | 31 |
+| last60d | 2026-07-15 | 4 | 69 | 16 | 19 | 35 | 32 |
+| 90d | 2026-06-15 | 5 | 97 | 16 | 29 | 41 | 38 |
+| last180d | 2026-03-17 | 8 | 156 | 16 | 61 | 48 | 72 |
+| 360d | 2025-09-18 | 8 | 270 | 20 | 131 | 70 | 126 |
+| last720d | 2024-09-23 | 13 | 448 | 20 | 273 | 128 | 502 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for htmx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:17:37Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:33:13Z._
