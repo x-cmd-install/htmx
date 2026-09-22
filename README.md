@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.0.0` (2026-08-28)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-21
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 49,490 · **Forks**: 1,662 · **Open issues**: 1,793 · **Contributors**: 465
+- **Stars**: 49,496 · **Forks**: 1,662 · **Open issues**: 1,793 · **Contributors**: 465
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 1247 · **Open PRs**: 20 · **Closed issues**: 1549 · **Open issues**: 244 · **Commits**: 3581
+- **Releases**: 35 · **Merged PRs**: 1247 · **Open PRs**: 21 · **Closed issues**: 1549 · **Open issues**: 244 · **Commits**: 3585
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 3 | 36 | 14 | 33 | 21 | 30 |
-| last60d | 2026-07-23 | 4 | 67 | 14 | 40 | 23 | 32 |
-| 90d | 2026-06-23 | 5 | 95 | 15 | 49 | 26 | 35 |
-| last180d | 2026-03-25 | 8 | 160 | 15 | 85 | 33 | 68 |
-| 360d | 2025-09-26 | 8 | 277 | 17 | 154 | 55 | 125 |
-| last720d | 2024-10-01 | 13 | 451 | 18 | 297 | 113 | 494 |
+| 30d | 2026-08-23 | 3 | 36 | 15 | 33 | 21 | 34 |
+| last60d | 2026-07-24 | 3 | 64 | 15 | 40 | 23 | 36 |
+| 90d | 2026-06-24 | 5 | 94 | 16 | 49 | 26 | 39 |
+| last180d | 2026-03-26 | 8 | 160 | 16 | 85 | 33 | 72 |
+| 360d | 2025-09-27 | 8 | 277 | 18 | 154 | 53 | 129 |
+| last720d | 2024-10-02 | 13 | 451 | 19 | 297 | 112 | 497 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for htmx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:40:52Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:32:55Z._
