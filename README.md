@@ -30,8 +30,8 @@ Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 49,526 · **Forks**: 1,669 · **Open issues**: 1,799 · **Contributors**: 467
+- **Stars**: 49,534 · **Forks**: 1,671 · **Open issues**: 1,799 · **Contributors**: 467
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 1249 · **Open PRs**: 25 · **Closed issues**: 1549 · **Open issues**: 250 · **Commits**: 3607
+- **Releases**: 35 · **Merged PRs**: 1249 · **Open PRs**: 26 · **Closed issues**: 1549 · **Open issues**: 250 · **Commits**: 3607
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 2 | 25 | 21 | 29 | 27 | 45 |
-| last60d | 2026-07-31 | 3 | 55 | 21 | 36 | 29 | 48 |
-| 90d | 2026-07-01 | 4 | 87 | 21 | 46 | 31 | 49 |
-| last180d | 2026-04-02 | 8 | 158 | 21 | 82 | 39 | 86 |
-| 360d | 2025-10-04 | 8 | 278 | 23 | 152 | 57 | 142 |
-| last720d | 2024-10-09 | 12 | 445 | 23 | 288 | 118 | 484 |
+| 30d | 2026-08-31 | 2 | 25 | 22 | 28 | 27 | 45 |
+| last60d | 2026-08-01 | 3 | 51 | 22 | 36 | 29 | 48 |
+| 90d | 2026-07-02 | 4 | 87 | 22 | 46 | 31 | 49 |
+| last180d | 2026-04-03 | 8 | 158 | 22 | 82 | 38 | 86 |
+| 360d | 2025-10-05 | 8 | 278 | 24 | 152 | 57 | 142 |
+| last720d | 2024-10-10 | 12 | 445 | 24 | 288 | 117 | 484 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for htmx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:32:02Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:08:49Z._
