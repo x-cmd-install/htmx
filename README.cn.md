@@ -30,8 +30,8 @@ x install htmx
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
@@ -48,22 +48,22 @@ x install htmx
 
 ## 流行度
 
-- **Star**: 49,557 · **Fork**: 1,682 · **开放 issue**: 1,807 · **贡献者**: 467
+- **Star**: 49,565 · **Fork**: 1,683 · **开放 issue**: 1,809 · **贡献者**: 467
 
 ## 累计统计
 
-- **发布数**: 35 · **已合并 PR**: 1249 · **开放 PR**: 46 · **已关闭 issue**: 1549 · **开放 issue**: 258 · **提交数**: 3607
+- **发布数**: 35 · **已合并 PR**: 1250 · **开放 PR**: 45 · **已关闭 issue**: 1550 · **开放 issue**: 259 · **提交数**: 3607
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 5 | 34 | 6 | 20 | 11 |
-| last60d | 2026-08-13 | 3 | 43 | 42 | 34 | 36 | 48 |
-| 90d | 2026-07-14 | 4 | 79 | 42 | 43 | 37 | 49 |
-| last180d | 2026-04-15 | 8 | 147 | 42 | 76 | 45 | 73 |
-| 360d | 2025-10-17 | 8 | 269 | 44 | 149 | 60 | 128 |
-| last720d | 2024-10-22 | 12 | 441 | 44 | 281 | 124 | 472 |
+| 30d | 2026-09-13 | 0 | 6 | 33 | 6 | 20 | 11 |
+| last60d | 2026-08-14 | 3 | 42 | 41 | 35 | 37 | 48 |
+| 90d | 2026-07-15 | 4 | 80 | 41 | 43 | 38 | 49 |
+| last180d | 2026-04-16 | 8 | 147 | 41 | 75 | 46 | 73 |
+| 360d | 2025-10-18 | 8 | 269 | 43 | 150 | 61 | 128 |
+| last720d | 2024-10-23 | 12 | 442 | 43 | 282 | 125 | 472 |
 
 ## Release 资产
 
@@ -80,4 +80,4 @@ htmx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T06:37:25Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T07:20:39Z._
