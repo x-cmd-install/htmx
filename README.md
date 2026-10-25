@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 49,567 · **Forks**: 1,703 · **Open issues**: 1,817 · **Contributors**: 467
+- **Stars**: 49,571 · **Forks**: 1,707 · **Open issues**: 1,818 · **Contributors**: 467
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 1262 · **Open PRs**: 45 · **Closed issues**: 1558 · **Open issues**: 259 · **Commits**: 3607
+- **Releases**: 35 · **Merged PRs**: 1262 · **Open PRs**: 45 · **Closed issues**: 1558 · **Open issues**: 260 · **Commits**: 3607
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 6 | 29 | 7 | 12 | 0 |
-| last60d | 2026-08-25 | 3 | 49 | 41 | 40 | 36 | 46 |
-| 90d | 2026-07-26 | 3 | 78 | 41 | 47 | 38 | 49 |
-| last180d | 2026-04-27 | 7 | 152 | 41 | 79 | 46 | 65 |
-| 360d | 2025-10-29 | 8 | 278 | 43 | 157 | 61 | 121 |
-| last720d | 2024-11-03 | 12 | 447 | 43 | 284 | 125 | 461 |
+| 30d | 2026-09-25 | 0 | 6 | 28 | 7 | 13 | 0 |
+| last60d | 2026-08-26 | 3 | 47 | 41 | 40 | 37 | 46 |
+| 90d | 2026-07-27 | 3 | 78 | 41 | 46 | 39 | 49 |
+| last180d | 2026-04-28 | 7 | 151 | 41 | 78 | 47 | 65 |
+| 360d | 2025-10-30 | 8 | 278 | 43 | 156 | 62 | 121 |
+| last720d | 2024-11-04 | 12 | 445 | 43 | 284 | 126 | 461 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for htmx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:06:43Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:07:32Z._
