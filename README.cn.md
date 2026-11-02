@@ -42,34 +42,134 @@ x install htmx
 
 ## 发布
 
-- **最新版本**: `v4.0.0` (2026-08-28)
+- **最新版本**: `v4.0.1` (2026-11-01)
 - **最近提交**: 2026-09-22
-- **Release 含资产**: 1 个
+- **Release 含资产**: 101 个
 
 ## 流行度
 
-- **Star**: 49,577 · **Fork**: 1,822 · **开放 issue**: 1,824 · **贡献者**: 466
+- **Star**: 49,590 · **Fork**: 1,840 · **开放 issue**: 1,826 · **贡献者**: 466
 
 ## 累计统计
 
-- **发布数**: 35 · **已合并 PR**: 1265 · **开放 PR**: 45 · **已关闭 issue**: 1571 · **开放 issue**: 253 · **提交数**: 3607
+- **发布数**: 37 · **已合并 PR**: 1271 · **开放 PR**: 39 · **已关闭 issue**: 1574 · **开放 issue**: 252 · **提交数**: 3607
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 8 | 24 | 13 | 9 | 0 |
-| last60d | 2026-09-02 | 2 | 37 | 41 | 46 | 24 | 45 |
-| 90d | 2026-08-03 | 3 | 63 | 41 | 58 | 32 | 48 |
-| last180d | 2026-05-05 | 7 | 148 | 41 | 88 | 40 | 65 |
-| 360d | 2025-11-06 | 8 | 277 | 43 | 166 | 54 | 114 |
-| last720d | 2024-11-11 | 12 | 442 | 43 | 293 | 118 | 453 |
+| 30d | 2026-10-03 | 2 | 13 | 19 | 13 | 10 | 0 |
+| last60d | 2026-09-03 | 4 | 41 | 35 | 48 | 23 | 12 |
+| 90d | 2026-08-04 | 5 | 69 | 35 | 60 | 30 | 48 |
+| last180d | 2026-05-06 | 9 | 153 | 35 | 91 | 39 | 65 |
+| 360d | 2025-11-07 | 10 | 282 | 37 | 167 | 53 | 112 |
+| last720d | 2024-11-12 | 14 | 447 | 37 | 296 | 116 | 453 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [htmx-4.0.0-dist.zip](https://github.com/bigskysoftware/htmx/releases/download/v4.0.0/htmx-4.0.0-dist.zip) | 597.0 KiB | `other` |
+| [htmax.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmax.js) | 207.7 KiB | `other` |
+| [htmax.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmax.js.br) | 39.1 KiB | `other` |
+| [htmax.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmax.min.js) | 78.8 KiB | `other` |
+| [htmax.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmax.min.js.br) | 23.2 KiB | `other` |
+| [htmax.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmax.min.js.map) | 114.3 KiB | `other` |
+| [htmx-2-compat.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx-2-compat.js) | 3.8 KiB | `other` |
+| [htmx-2-compat.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx-2-compat.js.br) | 726 B | `other` |
+| [htmx-2-compat.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx-2-compat.min.js) | 1.7 KiB | `other` |
+| [htmx-2-compat.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx-2-compat.min.js.br) | 545 B | `other` |
+| [htmx-2-compat.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx-2-compat.min.js.map) | 2.4 KiB | `other` |
+| [htmx.d.ts](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx.d.ts) | 30.0 KiB | `other` |
+| [htmx.esm.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx.esm.js) | 102.0 KiB | `other` |
+| [htmx.esm.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx.esm.js.br) | 20.0 KiB | `other` |
+| [htmx.esm.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx.esm.min.js) | 36.6 KiB | `other` |
+| [htmx.esm.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx.esm.min.js.br) | 11.7 KiB | `other` |
+| [htmx.esm.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx.esm.min.js.map) | 56.4 KiB | `other` |
+| [htmx.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx.js) | 101.9 KiB | `other` |
+| [htmx.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx.js.br) | 20.0 KiB | `other` |
+| [htmx.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx.min.js) | 36.6 KiB | `other` |
+| [htmx.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx.min.js.br) | 11.7 KiB | `other` |
+| [htmx.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx.min.js.map) | 56.4 KiB | `other` |
+| [hx-alpine-compat.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-alpine-compat.js) | 4.2 KiB | `other` |
+| [hx-alpine-compat.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-alpine-compat.js.br) | 1.0 KiB | `other` |
+| [hx-alpine-compat.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-alpine-compat.min.js) | 1.7 KiB | `other` |
+| [hx-alpine-compat.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-alpine-compat.min.js.br) | 681 B | `other` |
+| [hx-alpine-compat.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-alpine-compat.min.js.map) | 2.4 KiB | `other` |
+| [hx-browser-indicator.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-browser-indicator.js) | 2.9 KiB | `other` |
+| [hx-browser-indicator.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-browser-indicator.js.br) | 777 B | `other` |
+| [hx-browser-indicator.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-browser-indicator.min.js) | 995 B | `other` |
+| [hx-browser-indicator.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-browser-indicator.min.js.br) | 448 B | `other` |
+| [hx-browser-indicator.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-browser-indicator.min.js.map) | 1.7 KiB | `other` |
+| [hx-csp.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-csp.js) | 10.5 KiB | `other` |
+| [hx-csp.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-csp.js.br) | 2.8 KiB | `other` |
+| [hx-csp.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-csp.min.js) | 3.4 KiB | `other` |
+| [hx-csp.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-csp.min.js.br) | 1.4 KiB | `other` |
+| [hx-csp.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-csp.min.js.map) | 4.6 KiB | `other` |
+| [hx-download.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-download.js) | 3.7 KiB | `other` |
+| [hx-download.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-download.js.br) | 1.2 KiB | `other` |
+| [hx-download.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-download.min.js) | 1.4 KiB | `other` |
+| [hx-download.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-download.min.js.br) | 644 B | `other` |
+| [hx-download.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-download.min.js.map) | 2.2 KiB | `other` |
+| [hx-head.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-head.js) | 8.5 KiB | `other` |
+| [hx-head.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-head.js.br) | 1.9 KiB | `other` |
+| [hx-head.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-head.min.js) | 2.4 KiB | `other` |
+| [hx-head.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-head.min.js.br) | 909 B | `other` |
+| [hx-head.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-head.min.js.map) | 3.8 KiB | `other` |
+| [hx-history-cache.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-history-cache.js) | 8.8 KiB | `other` |
+| [hx-history-cache.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-history-cache.js.br) | 2.1 KiB | `other` |
+| [hx-history-cache.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-history-cache.min.js) | 4.2 KiB | `other` |
+| [hx-history-cache.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-history-cache.min.js.br) | 1.4 KiB | `other` |
+| [hx-history-cache.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-history-cache.min.js.map) | 5.8 KiB | `other` |
+| [hx-live.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-live.js) | 34.7 KiB | `other` |
+| [hx-live.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-live.js.br) | 7.8 KiB | `other` |
+| [hx-live.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-live.min.js) | 14.6 KiB | `other` |
+| [hx-live.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-live.min.js.br) | 5.0 KiB | `other` |
+| [hx-live.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-live.min.js.map) | 22.9 KiB | `other` |
+| [hx-multipart.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-multipart.js) | 42.1 KiB | `other` |
+| [hx-multipart.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-multipart.js.br) | 9.3 KiB | `other` |
+| [hx-multipart.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-multipart.min.js) | 13.9 KiB | `other` |
+| [hx-multipart.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-multipart.min.js.br) | 4.5 KiB | `other` |
+| [hx-multipart.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-multipart.min.js.map) | 21.1 KiB | `other` |
+| [hx-pending.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-pending.js) | 3.4 KiB | `other` |
+| [hx-pending.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-pending.js.br) | 970 B | `other` |
+| [hx-pending.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-pending.min.js) | 1.5 KiB | `other` |
+| [hx-pending.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-pending.min.js.br) | 611 B | `other` |
+| [hx-pending.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-pending.min.js.map) | 2.4 KiB | `other` |
+| [hx-preload.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-preload.js) | 3.7 KiB | `other` |
+| [hx-preload.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-preload.js.br) | 1.0 KiB | `other` |
+| [hx-preload.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-preload.min.js) | 1.8 KiB | `other` |
+| [hx-preload.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-preload.min.js.br) | 764 B | `other` |
+| [hx-preload.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-preload.min.js.map) | 3.0 KiB | `other` |
+| [hx-prompt.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-prompt.js) | 960 B | `other` |
+| [hx-prompt.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-prompt.js.br) | 362 B | `other` |
+| [hx-prompt.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-prompt.min.js) | 362 B | `other` |
+| [hx-prompt.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-prompt.min.js.br) | 211 B | `other` |
+| [hx-prompt.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-prompt.min.js.map) | 669 B | `other` |
+| [hx-ptag.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-ptag.js) | 1.1 KiB | `other` |
+| [hx-ptag.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-ptag.js.br) | 428 B | `other` |
+| [hx-ptag.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-ptag.min.js) | 333 B | `other` |
+| [hx-ptag.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-ptag.min.js.br) | 194 B | `other` |
+| [hx-ptag.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-ptag.min.js.map) | 693 B | `other` |
+| [hx-sse.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-sse.js) | 18.5 KiB | `other` |
+| [hx-sse.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-sse.js.br) | 3.8 KiB | `other` |
+| [hx-sse.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-sse.min.js) | 6.4 KiB | `other` |
+| [hx-sse.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-sse.min.js.br) | 2.3 KiB | `other` |
+| [hx-sse.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-sse.min.js.map) | 9.0 KiB | `other` |
+| [hx-targets.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-targets.js) | 1.5 KiB | `other` |
+| [hx-targets.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-targets.js.br) | 527 B | `other` |
+| [hx-targets.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-targets.min.js) | 485 B | `other` |
+| [hx-targets.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-targets.min.js.br) | 275 B | `other` |
+| [hx-targets.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-targets.min.js.map) | 902 B | `other` |
+| [hx-upsert.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-upsert.js) | 3.3 KiB | `other` |
+| [hx-upsert.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-upsert.js.br) | 837 B | `other` |
+| [hx-upsert.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-upsert.min.js) | 922 B | `other` |
+| [hx-upsert.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-upsert.min.js.br) | 458 B | `other` |
+| [hx-upsert.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-upsert.min.js.map) | 1.8 KiB | `other` |
+| [hx-ws.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-ws.js) | 21.0 KiB | `other` |
+| [hx-ws.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-ws.js.br) | 4.0 KiB | `other` |
+| [hx-ws.min.js](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-ws.min.js) | 8.3 KiB | `other` |
+| [hx-ws.min.js.br](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-ws.min.js.br) | 2.6 KiB | `other` |
+| [hx-ws.min.js.map](https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-ws.min.js.map) | 10.8 KiB | `other` |
 
 ## 改进这些数据
 
@@ -80,4 +180,4 @@ htmx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261101.yml` · 2026-11-01T06:35:35Z._
+_数据快照: `data/card/261102.yml` · 2026-11-02T06:37:16Z._
