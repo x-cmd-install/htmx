@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 40049,
       "digest": "sha256:8114c2e84db89f3c500de236b8b0ee531bf95baa13651d42f6992fa36e35559a",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-01T23:06:11Z",
       "updated_at": "2026-11-01T23:06:11Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmax.js.br"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 80679,
       "digest": "sha256:a262eab3dc3da7353552239b52b9a33397ea62b0eb36c65cd0e709fcd85ccc35",
-      "download_count": 12,
+      "download_count": 15,
       "created_at": "2026-11-01T23:06:10Z",
       "updated_at": "2026-11-01T23:06:10Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmax.min.js"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 104376,
       "digest": "sha256:89b09a0392a9077ce037bb913f023dd349fa19bdb980df556d943d386bf0bfe8",
-      "download_count": 10,
+      "download_count": 16,
       "created_at": "2026-11-01T23:06:10Z",
       "updated_at": "2026-11-01T23:06:10Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx.js"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 37448,
       "digest": "sha256:a0abb04f2f45a1f89d1d4844023245537e5e6014c87b144553e0607b4cc32130",
-      "download_count": 27,
+      "download_count": 35,
       "created_at": "2026-11-01T23:06:11Z",
       "updated_at": "2026-11-01T23:06:11Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx.min.js"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 12001,
       "digest": "sha256:59cdd8d6e74c210018df8aa56931a99ada826d48041aac05bdee126eff53b662",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-01T23:06:11Z",
       "updated_at": "2026-11-01T23:06:12Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/htmx.min.js.br"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 1742,
       "digest": "sha256:d2047ba85b277df33b44a890a470213246d0e8f7458ffa766e77c7347551767e",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-01T23:06:13Z",
       "updated_at": "2026-11-01T23:06:13Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-alpine-compat.min.js"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 10715,
       "digest": "sha256:e953cfd47d9befaef0db1298319a88c680c7132ba7375cd8c915fe1ed6294d3d",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-11-01T23:06:13Z",
       "updated_at": "2026-11-01T23:06:13Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-csp.js"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 14932,
       "digest": "sha256:b69ba952c4ac81ec908767b14a3dc0465e7954f3f6ab0f2adfcecb32d4b69f7a",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-01T23:06:14Z",
       "updated_at": "2026-11-01T23:06:14Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-live.min.js"
@@ -2011,7 +2011,7 @@
       "state": "uploaded",
       "size": 5095,
       "digest": "sha256:f7dc5a321ba9d39b7db5d345bd1496ce914dce7a13fe352c3ab784fda19ffd88",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-01T23:06:18Z",
       "updated_at": "2026-11-01T23:06:18Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-live.min.js.br"
@@ -3055,7 +3055,7 @@
       "state": "uploaded",
       "size": 6532,
       "digest": "sha256:18ef2761356ec1fe0bb6d92612315b37517a7c1e9856b661c5ae81fef239d103",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-01T23:06:15Z",
       "updated_at": "2026-11-01T23:06:15Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.1/hx-sse.min.js"
