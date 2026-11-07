@@ -1,3 +1,42 @@
+- repo: raspbian_testing
+  subrepo: main
+  srcname: htmx
+  binnames:
+    - libjs-htmx
+  visiblename: htmx
+  version: 4.0.0-beta6
+  origversion: 4.0.0-beta6-1
+  status: unique
+  maintainers:
+    - jcc@debian.org
+  categories:
+    - misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: htmx
+  binnames:
+    - libjs-htmx
+  visiblename: htmx
+  version: 2.0.4
+  origversion: 2.0.4-1
+  status: outdated
+  maintainers:
+    - jcc@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: htmx
+  binnames:
+    - libjs-htmx
+  visiblename: htmx
+  version: 2.0.4
+  origversion: 2.0.4-1
+  status: outdated
+  maintainers:
+    - jcc@debian.org
+  categories:
+    - universe/misc
 - repo: debian_13
   subrepo: trixie/main
   srcname: htmx
@@ -128,45 +167,6 @@
     - jcc@debian.org
   categories:
     - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: htmx
-  binnames:
-    - libjs-htmx
-  visiblename: htmx
-  version: 4.0.0-beta6
-  origversion: 4.0.0-beta6-1
-  status: unique
-  maintainers:
-    - jcc@debian.org
-  categories:
-    - misc
-- repo: ubuntu_25_04
-  subrepo: plucky/universe
-  srcname: htmx
-  binnames:
-    - libjs-htmx
-  visiblename: htmx
-  version: 2.0.4
-  origversion: 2.0.4-1
-  status: outdated
-  maintainers:
-    - jcc@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_25_10
-  subrepo: questing/universe
-  srcname: htmx
-  binnames:
-    - libjs-htmx
-  visiblename: htmx
-  version: 2.0.4
-  origversion: 2.0.4-1
-  status: outdated
-  maintainers:
-    - jcc@debian.org
-  categories:
-    - universe/misc
 - repo: ubuntu_26_04
   subrepo: resolute/universe
   srcname: htmx
@@ -182,6 +182,19 @@
     - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: htmx
+  binnames:
+    - libjs-htmx
+  visiblename: htmx
+  version: 4.0.0-beta6
+  origversion: 4.0.0-beta6-1
+  status: unique
+  maintainers:
+    - jcc@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: htmx
   binnames:
     - libjs-htmx
