@@ -1,3 +1,29 @@
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: htmx
+  binnames:
+    - libjs-htmx
+  visiblename: htmx
+  version: 2.0.4
+  origversion: 2.0.4-1
+  status: outdated
+  maintainers:
+    - jcc@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04_proposed
+  subrepo: tenacious-proposed/universe
+  srcname: htmx
+  binnames:
+    - libjs-htmx
+  visiblename: htmx
+  version: 4.0.1
+  origversion: 4.0.1-1
+  status: unique
+  maintainers:
+    - jcc@debian.org
+  categories:
+    - universe/misc
 - repo: debian_13
   subrepo: trixie/main
   srcname: htmx
@@ -17,9 +43,9 @@
   binnames:
     - libjs-htmx
   visiblename: htmx
-  version: 4.0.0-beta6
-  origversion: 4.0.0-beta6-1
-  status: outdated
+  version: 4.0.1
+  origversion: 4.0.1-1
+  status: unique
   maintainers:
     - jcc@debian.org
   categories:
@@ -77,7 +103,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: htmx
   binnames:
     - libjs-htmx
@@ -90,7 +116,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: htmx
   binnames:
     - libjs-htmx
@@ -134,26 +160,13 @@
   binnames:
     - libjs-htmx
   visiblename: htmx
-  version: 4.0.0-beta6
-  origversion: 4.0.0-beta6-1
-  status: outdated
+  version: 4.0.1
+  origversion: 4.0.1-1
+  status: unique
   maintainers:
     - jcc@debian.org
   categories:
     - misc
-- repo: ubuntu_25_04
-  subrepo: plucky/universe
-  srcname: htmx
-  binnames:
-    - libjs-htmx
-  visiblename: htmx
-  version: 2.0.4
-  origversion: 2.0.4-1
-  status: outdated
-  maintainers:
-    - jcc@debian.org
-  categories:
-    - universe/misc
 - repo: ubuntu_25_10
   subrepo: questing/universe
   srcname: htmx
@@ -202,19 +215,6 @@
   version: 4.0.0-beta6
   origversion: 4.0.0-beta6-1
   status: outdated
-  maintainers:
-    - jcc@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_27_04_proposed
-  subrepo: tenacious-proposed/universe
-  srcname: htmx
-  binnames:
-    - libjs-htmx
-  visiblename: htmx
-  version: 4.0.1
-  origversion: 4.0.1-1
-  status: unique
   maintainers:
     - jcc@debian.org
   categories:
