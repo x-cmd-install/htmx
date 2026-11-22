@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 104422,
       "digest": "sha256:2d0a5a6e4189173788d841e4ddd69426f129bf6f8434ca9c854f7b9e33c785d3",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-11-18T01:44:02Z",
       "updated_at": "2026-11-18T01:44:03Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/htmx.js"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 37477,
       "digest": "sha256:fd25ba3fe5e44768756f23862a6daa4f928192199a121e825e882e719bc8aabd",
-      "download_count": 60,
+      "download_count": 72,
       "created_at": "2026-11-18T01:44:03Z",
       "updated_at": "2026-11-18T01:44:04Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/htmx.min.js"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 1742,
       "digest": "sha256:d2047ba85b277df33b44a890a470213246d0e8f7458ffa766e77c7347551767e",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-18T01:44:05Z",
       "updated_at": "2026-11-18T01:44:05Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/hx-alpine-compat.min.js"
@@ -3055,7 +3055,7 @@
       "state": "uploaded",
       "size": 5912,
       "digest": "sha256:650d88a96a017a50ca0e16ffcf8663ca9ebd12a7e2e73ab22086540e5924ce5f",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-18T01:44:08Z",
       "updated_at": "2026-11-18T01:44:09Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/hx-sse.min.js"
