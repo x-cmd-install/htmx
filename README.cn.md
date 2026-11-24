@@ -26,13 +26,13 @@ x install htmx
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.2 / 10**
+总评分: **5.1 / 10**
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (4/10) — Found 14/30 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install htmx
 
 ## 流行度
 
-- **Star**: 49,655 · **Fork**: 1,862 · **开放 issue**: 1,846 · **贡献者**: 466
+- **Star**: 49,655 · **Fork**: 1,861 · **开放 issue**: 1,846 · **贡献者**: 466
 
 ## 累计统计
 
-- **发布数**: 38 · **已合并 PR**: 1280 · **开放 PR**: 55 · **已关闭 issue**: 1579 · **开放 issue**: 267 · **提交数**: 3608
+- **发布数**: 38 · **已合并 PR**: 1280 · **开放 PR**: 57 · **已关闭 issue**: 1579 · **开放 issue**: 267 · **提交数**: 3608
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 3 | 10 | 22 | 9 | 19 | 1 |
-| last60d | 2026-09-24 | 3 | 22 | 41 | 20 | 28 | 1 |
-| 90d | 2026-08-25 | 6 | 67 | 51 | 60 | 45 | 47 |
-| last180d | 2026-05-27 | 8 | 150 | 51 | 92 | 51 | 62 |
-| 360d | 2025-11-28 | 11 | 261 | 52 | 159 | 63 | 112 |
-| last720d | 2024-12-03 | 15 | 441 | 53 | 293 | 126 | 426 |
+| 30d | 2026-10-25 | 3 | 10 | 23 | 8 | 19 | 1 |
+| last60d | 2026-09-25 | 3 | 22 | 42 | 20 | 28 | 1 |
+| 90d | 2026-08-26 | 6 | 65 | 53 | 60 | 45 | 47 |
+| last180d | 2026-05-28 | 8 | 150 | 53 | 92 | 51 | 62 |
+| 360d | 2025-11-29 | 11 | 261 | 54 | 158 | 63 | 112 |
+| last720d | 2024-12-04 | 15 | 441 | 55 | 293 | 126 | 425 |
 
 ## Release 资产
 
@@ -180,4 +180,4 @@ htmx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T10:41:08Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T10:13:42Z._

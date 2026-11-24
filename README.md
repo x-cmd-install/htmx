@@ -26,13 +26,13 @@ Total: **107,175** lines of code across **350** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.2 / 10**
+Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (4/10) — Found 14/30 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 49,655 · **Forks**: 1,862 · **Open issues**: 1,846 · **Contributors**: 466
+- **Stars**: 49,655 · **Forks**: 1,861 · **Open issues**: 1,846 · **Contributors**: 466
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 1280 · **Open PRs**: 55 · **Closed issues**: 1579 · **Open issues**: 267 · **Commits**: 3608
+- **Releases**: 38 · **Merged PRs**: 1280 · **Open PRs**: 57 · **Closed issues**: 1579 · **Open issues**: 267 · **Commits**: 3608
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 3 | 10 | 22 | 9 | 19 | 1 |
-| last60d | 2026-09-24 | 3 | 22 | 41 | 20 | 28 | 1 |
-| 90d | 2026-08-25 | 6 | 67 | 51 | 60 | 45 | 47 |
-| last180d | 2026-05-27 | 8 | 150 | 51 | 92 | 51 | 62 |
-| 360d | 2025-11-28 | 11 | 261 | 52 | 159 | 63 | 112 |
-| last720d | 2024-12-03 | 15 | 441 | 53 | 293 | 126 | 426 |
+| 30d | 2026-10-25 | 3 | 10 | 23 | 8 | 19 | 1 |
+| last60d | 2026-09-25 | 3 | 22 | 42 | 20 | 28 | 1 |
+| 90d | 2026-08-26 | 6 | 65 | 53 | 60 | 45 | 47 |
+| last180d | 2026-05-28 | 8 | 150 | 53 | 92 | 51 | 62 |
+| 360d | 2025-11-29 | 11 | 261 | 54 | 158 | 63 | 112 |
+| last720d | 2024-12-04 | 15 | 441 | 55 | 293 | 126 | 425 |
 
 ## Release assets
 
@@ -180,4 +180,4 @@ Install metadata for htmx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:41:08Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:13:42Z._
