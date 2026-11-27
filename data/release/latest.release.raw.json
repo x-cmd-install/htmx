@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 210201,
       "digest": "sha256:29eb09abebb6e4e59e985abd463bc60a462a9d93bed784c555f3e2e8451cbc56",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-11-18T01:44:02Z",
       "updated_at": "2026-11-18T01:44:03Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/htmax.js"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 39626,
       "digest": "sha256:b48bf9c4561c3af54560d02ed5d5a2fbdf6862d0da348ae0bf50fbe54f5c916f",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-11-18T01:44:03Z",
       "updated_at": "2026-11-18T01:44:04Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/htmax.js.br"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 79517,
       "digest": "sha256:178f42b3cca0296fa4918264940fa86c251b13a5e4bea33f65c96322adc61c29",
-      "download_count": 34,
+      "download_count": 39,
       "created_at": "2026-11-18T01:44:02Z",
       "updated_at": "2026-11-18T01:44:03Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/htmax.min.js"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 23479,
       "digest": "sha256:c4a987cf08aef918466251f3cd77facace080512d2cef2f1555dfb4d6f7a354f",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-11-18T01:44:03Z",
       "updated_at": "2026-11-18T01:44:04Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/htmax.min.js.br"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 115977,
       "digest": "sha256:17767601e80ea6230e090ed7e4e37b8ab83392ecbf745e0ef3f7f3349487ab0c",
-      "download_count": 24,
+      "download_count": 26,
       "created_at": "2026-11-18T01:44:04Z",
       "updated_at": "2026-11-18T01:44:04Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/htmax.min.js.map"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 104422,
       "digest": "sha256:2d0a5a6e4189173788d841e4ddd69426f129bf6f8434ca9c854f7b9e33c785d3",
-      "download_count": 24,
+      "download_count": 26,
       "created_at": "2026-11-18T01:44:02Z",
       "updated_at": "2026-11-18T01:44:03Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/htmx.js"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 20454,
       "digest": "sha256:0662c67fa845fcb0189c699d0f48fa9835b26e9c84d6807ee71587fd9db5acfb",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-18T01:44:04Z",
       "updated_at": "2026-11-18T01:44:04Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/htmx.js.br"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 37477,
       "digest": "sha256:fd25ba3fe5e44768756f23862a6daa4f928192199a121e825e882e719bc8aabd",
-      "download_count": 126,
+      "download_count": 137,
       "created_at": "2026-11-18T01:44:03Z",
       "updated_at": "2026-11-18T01:44:04Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/htmx.min.js"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 12043,
       "digest": "sha256:eeb737515685a655bdd53c13086ee1438a207886b2120ed6ce7be478979e23fb",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-18T01:44:04Z",
       "updated_at": "2026-11-18T01:44:04Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/htmx.min.js.br"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 57844,
       "digest": "sha256:540e947ef73d6b4a68d6d08091a630eeee9c34e15514f7897010dd5c2e98d8ca",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-18T01:44:04Z",
       "updated_at": "2026-11-18T01:44:05Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/htmx.min.js.map"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 4274,
       "digest": "sha256:0984507114aaf26a4461dc74173cd0e1977a971ab8a33843042e683ab871f69a",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-18T01:44:05Z",
       "updated_at": "2026-11-18T01:44:05Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/hx-alpine-compat.js"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 1053,
       "digest": "sha256:26015a2231f4b477085529adc3c80b19c4faf298db25be89bf7761a3ea8a7171",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-18T01:44:10Z",
       "updated_at": "2026-11-18T01:44:10Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/hx-alpine-compat.js.br"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 1742,
       "digest": "sha256:d2047ba85b277df33b44a890a470213246d0e8f7458ffa766e77c7347551767e",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-11-18T01:44:05Z",
       "updated_at": "2026-11-18T01:44:05Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/hx-alpine-compat.min.js"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 681,
       "digest": "sha256:037a795f543a20fcc8df839fa813abc9c07a9f291efea5782616f218a6d9c347",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-18T01:44:10Z",
       "updated_at": "2026-11-18T01:44:10Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/hx-alpine-compat.min.js.br"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 2466,
       "digest": "sha256:64514ebfcd946571f8fcb81dbf01c7b4196eeff70b6d114df0fa868b745c1d77",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-18T01:44:14Z",
       "updated_at": "2026-11-18T01:44:14Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/hx-alpine-compat.min.js.map"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 10715,
       "digest": "sha256:e953cfd47d9befaef0db1298319a88c680c7132ba7375cd8c915fe1ed6294d3d",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-18T01:44:05Z",
       "updated_at": "2026-11-18T01:44:06Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/hx-csp.js"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 3447,
       "digest": "sha256:a7e1e6711ae6c3e50ad300fba7936cbe8d07599cdae313414a179ddd6b26e143",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-18T01:44:06Z",
       "updated_at": "2026-11-18T01:44:06Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/hx-csp.min.js"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 1505,
       "digest": "sha256:6be1cca5a0499e667d84fab7466a6fb0f76990fe7c920dd53f0d1221580c1dc4",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-18T01:44:07Z",
       "updated_at": "2026-11-18T01:44:08Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/hx-pending.min.js"
@@ -2875,7 +2875,7 @@
       "state": "uploaded",
       "size": 333,
       "digest": "sha256:1993b23e86553100e4f45eed1b756eb8cf53c5b2244caf98e58662dfde9ca069",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-18T01:44:08Z",
       "updated_at": "2026-11-18T01:44:08Z",
       "browser_download_url": "https://github.com/bigskysoftware/htmx/releases/download/v4.0.2/hx-ptag.min.js"
@@ -3678,14 +3678,14 @@
   "body": "v4.0.2\n\n* Fixed swap failure in Chrome 124-145. This reverts the 4.0.1 workaround for Chrome 150-156 dropping HTML comments ([#4215](https://github.com/bigskysoftware/htmx/pull/4215), [#4182](https://github.com/bigskysoftware/htmx/issues/4182))\n* A pending `delay` or `throttle` trigger is now cancelled only by triggers in the same `hx-trigger` value, not by `hx-on` handlers ([#4190](https://github.com/bigskysoftware/htmx/pull/4190))\n* Fixed spurious history restore on fragment navigation in Firefox 159+ ([#4214](https://github.com/bigskysoftware/htmx/pull/4214))\n* Fixed `makeFragment` in Chrome below 88 ([#4217](https://github.com/bigskysoftware/htmx/pull/4217))\n* `hx-sse` and `hx-ws`: removed the legacy `sse-*` and `ws-*` attributes. Use `hx-sse:*` and `hx-ws:*` ([#4218](https://github.com/bigskysoftware/htmx/pull/4218))\n* `hx-live`: the `htmx.live` API registers only if the extension loads ([#4207](https://github.com/bigskysoftware/htmx/pull/4207)), and doc fixes ([#4208](https://github.com/bigskysoftware/htmx/pull/4208), [#4210](https://github.com/bigskysoftware/htmx/pull/4210))\n",
   "reactions": {
     "url": "https://api.github.com/repos/bigskysoftware/htmx/releases/449419027/reactions",
-    "total_count": 9,
+    "total_count": 10,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 3,
-    "rocket": 6,
+    "rocket": 7,
     "eyes": 0
   }
 }
